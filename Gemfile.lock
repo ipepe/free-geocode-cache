@@ -18,6 +18,7 @@ PLATFORMS
 
 DEPENDENCIES
   puma!
+  rack!
   sinatra!
   sinatra-cross_origin!
 
